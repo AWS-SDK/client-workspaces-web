@@ -1,1 +1,1 @@
-export * from "@aws-sdk/{repoName}";
+export * from "@aws-sdk/client-workspaces-web";
